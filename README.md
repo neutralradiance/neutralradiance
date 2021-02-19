@@ -1,8 +1,4 @@
-I'm Will, nice to meet you.
-I code in [Swift](https://github.com/apple/swift) but I specialize in [SwiftUI](https://developer.apple.com/documentation/swiftui) and I enjoy solving difficult problems with code.
-Please contact me for questions about code, apps, and projects of any sort.
-
-links:
+# 👋 Hello, World!
 
 - [Email](mailto:williamluke@me.com)
 - [Twitter](https://www.twitter.com/neutralradiance)
